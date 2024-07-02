@@ -32,7 +32,7 @@ Certifique-se de que os componentes estão conectados aos seguintes pinos digita
 - **LED Amarelo:** Pino 3;
 - **LED Vermelho:** Pino 4;
 - **Trig:** Pino 5;
-- **Echo:** Pino 6.
+- **Echo:** Pino 6;
 - **Piezo:** Pino 9.
 
 ## 👩‍💻 Funcionamento do Código Arduino
